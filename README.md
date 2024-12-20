@@ -11,6 +11,6 @@ conda activate QT5
 pip install Pillow==9.4.0
 pip insyall PyQt5==5.15.9
 ```
-
+-Version
 
 
