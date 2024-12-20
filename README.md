@@ -11,6 +11,18 @@ conda activate QT5
 pip install Pillow==9.4.0
 pip insyall PyQt5==5.15.9
 ```
--Version
+- Version
+  ```
+  Pillow==9.4.0
+  PyQt5==5.15.9
+  opencv-python==4.9.0.80
+  Python==3.9.18
+  NumPy==1.23.5
+  ```
+#### Usage
+```
+python QT-program.py
+```
+
 
 
