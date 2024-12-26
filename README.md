@@ -23,5 +23,7 @@ conda activate QT5
 python QT-program.py
 ```
 
-
+#### Note
+Please contact the author for model training weight files.
+Email: lisp0326@163.com
 
