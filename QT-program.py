@@ -6,7 +6,7 @@ from PIL import Image
 from PyQt5 import QtWidgets, QtGui
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QLabel, QVBoxLayout, QHBoxLayout, QPushButton, QFileDialog, QApplication
-from model.STSU.STSU import UNetWithAttention
+from model/STSU.STSU import UNetWithAttention
 from Separated import split_image_by_color_main
 from Combined import merge_images_by_group
 from Marked import process_images_main
