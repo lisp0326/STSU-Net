@@ -27,8 +27,8 @@ python QT-program.py
 #### Linux usage
 Install [Anaconda](https://www.anaconda.com/download), then in an Anaconda Prompt run:
 ```
-conda create --name=QT5 python==3.9.18
-conda activate QT5
+conda create --name=pytorch python==3.9.18
+conda activate pytorch
 ```
 First:
 ```
