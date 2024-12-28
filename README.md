@@ -18,12 +18,30 @@ conda activate QT5
   NumPy==1.23.5
   scikit-image==0.25.0
   ```
-#### Usage
+#### Windows usage
+In an Anaconda Prompt run
 ```
 python QT-program.py
 ```
+---
+#### Linux usage
+Install [Anaconda](https://www.anaconda.com/download), then in an Anaconda Prompt run:
+```
+conda create --name=QT5 python==3.9.18
+conda activate QT5
+```
+First:
+```
+python predict.py
+```
+Second:
+```
+python calc_length.py
+```
+
 
 #### Note
-Please contact the author for model training weight files.
+- Recommended to use Linux platform.
+- Please contact the author for model training weight files.
 Email: lisp0326@163.com
 
